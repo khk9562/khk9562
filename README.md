@@ -106,11 +106,10 @@
 <br />
 
 ## 3. 요양시설 중개 플랫폼, 나으리 (2023.03 - 2023.06)
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/khk9562/khk9562/assets/114156332/baf73b3c-7568-43bd-aad3-3c2bfa1e0430" alt="나으리 지도 팝업 이미지" width="49%">
-    <img src="https://github.com/khk9562/khk9562/assets/114156332/cfef8894-234a-48af-bb0f-88f71535879b" alt="나으리 지도 검색 이미지" width="49%">
 
-</div>
+| 실제 구현 | 데이터 소실로 실제 구현이 아닌 디자인 캡처본입니다. |
+|------------|--------------|
+| <img src="https://github.com/khk9562/khk9562/assets/114156332/baf73b3c-7568-43bd-aad3-3c2bfa1e0430" alt="나으리 지도 팝업 이미지" width="420px" style="object-fit:contain"> | <img src="https://github.com/khk9562/khk9562/assets/114156332/cfef8894-234a-48af-bb0f-88f71535879b" alt="나으리 지도 검색 이미지" width="380px"> |
 
 
 **사용 기술:** `Next.js` `Typescript` `CSS` `HTML` `Javascript` `GitHub` `Bootstrap` `카카오지도 API` `네이버지도 API` `Context API`
