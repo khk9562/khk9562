@@ -39,8 +39,6 @@
 ## 1. 루루봇 (2023.09 - 2024.02)
 <img width="100%" alt="Untitled (1)" src="https://github.com/khk9562/khk9562/assets/114156332/39a2516f-220a-4d22-be7a-854ee94c81e7">
 
-**링크:** [https://rooroo.kr/](https://rooroo.kr/)
-
 **사용 기술:** `Next.js` `Typescript` `GitHub` `CSS3` `Bootstrap` `Context API` `Fabric.js` `TTS`
 
 > 캔버스를 이용한 후원 꾸미기 및 스푼 방송 도움 프로그램
