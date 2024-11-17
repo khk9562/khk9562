@@ -46,3 +46,8 @@
 ### 💻 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khk9562&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🔥 Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khk9562&theme=tokyonight)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=khk9562&theme=tokyonight&column=4&no-frame=true&margin-w=15&margin-h=15&hide=REPOSITORIES,ISSUES,STARS,FOLLOWERS,PULL_REQUEST,EXPERIENCE)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord)
