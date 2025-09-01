@@ -8,7 +8,7 @@
 - Python
 
 ### 🔧 Frameworks & Libraries
-- React
+- React.js
 - Next.js
 - jQuery
 - FastAPI
@@ -33,6 +33,7 @@
 - Bootstrap
 - Styled Components
 - SCSS
+- Tailwind CSS
 
 
 ### 📊 State Management
